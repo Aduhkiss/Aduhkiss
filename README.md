@@ -2,7 +2,7 @@
 
 I am a Java Developer currently working on the Riko Sakurachi Discord bot!
 
-Check out my website to learn more about me! (Click Here!)[https://atticuszambrana.me]
+Check out my website to learn more about me! [Click Here!](https://atticuszambrana.me)
 
 <!--
 **Aduhkiss/Aduhkiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
