@@ -1,8 +1,6 @@
 ### Hi there, my name is Atticus! 👋
 
-I am a Java Developer currently working on the Riko Sakurachi Discord bot!
-
-Check out my website to learn more about me! [Click Here!](https://atticuszambrana.me)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aduhkiss)](yoo)
 
 <!--
 **Aduhkiss/Aduhkiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
