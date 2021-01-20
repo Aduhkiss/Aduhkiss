@@ -1,5 +1,9 @@
 ### Hi there, my name is Atticus! 👋
 
+I'm a Spigot/BungeeCord/General Java stuff developer from Washington State!
+
+I work a lot with Cyber Security, especially when it comes to Minecraft Servers and Server Networks!
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aduhkiss)](yoo)
 
 <!--
