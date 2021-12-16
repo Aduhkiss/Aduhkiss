@@ -2,7 +2,6 @@
 
 Hi there! My name is Atticus, I am a Java Developer with experience mainly in Minecraft Server Network Cyber security, and network management.
 Yeah, I'm the guy who re-coded Kroger's QueVision, but for Minecraft.
-I also specialize in writing plugins that destroy 32k superweapons lol
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aduhkiss)](yoo)
 
