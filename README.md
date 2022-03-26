@@ -4,8 +4,6 @@ I am a 20 year old Java Software Engineer and Developer. I specialize in writing
 
 I am the owner of [The Plutonium MC Minecraft Server](https://plutoniummc.xyz)
 
-I am the core developer and owner of [The ROCKET Minecraft Cheat Client](http://gorocket.cc)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aduhkiss)](yoo)
 
 <!--
