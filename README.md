@@ -1,6 +1,6 @@
 ### Hi there, my name is Atticus! 👋
 
-I'm Atticus! 20 y/o Network Engineer and Java Developer
+I'm Atticus! 21 y/o Network Engineer and Java Developer
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aduhkiss)](yoo)
 
