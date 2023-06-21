@@ -1,11 +1,18 @@
 ### Hi there, my name is Atticus! 👋
 
-I'm Atticus! 21 y/o Network Engineer and Java Developer
+Yo! My name is Atticus! I write code in my free time.
+
+I love writing for the Bukkit/Spigot Minecraft Server API, as well as the BungeeCord API
+I have experience developing and implementing backend infrastructure for Minecraft Servers.
+
+I'm the guy you want to have in-charge of developing your next big server.
+
+DM me on Discord: (aduhkiss) for any questions
 
 - 🔭 I’m not currently working on anything!
 - 🌱 I’m currently learning Cisco Network Engineering
 - 💬 Ask me about Backend Network Development with Spigot and BungeeCord
-- 📫 How to reach me: Discord: Atticus#7686
+- 📫 How to reach me: Discord: Aduhkiss
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I work for Costco Wholesale!
 
