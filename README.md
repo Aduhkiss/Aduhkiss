@@ -1,30 +1,29 @@
-### Hi there, my name is Atticus! 👋
+### 👋 Hello! I'm Atticus Zambrana
 
-Hi there! My name is Atticus, or Aduhkiss! I am a Java Programmer/Infrastructure Engineer for my own company, The Cloudy Co
+I'm a **Java Programmer**, **Infrastructure Engineer**, and **Cybersecurity Analyst** currently working under my own company, **The Cloudy Co**.
 
-I am extremely experienced in writing backend code for the Bukkit/Spigot Minecraft Server API, as well as the BungeeCord API.
-You can send me a direct message on Discord (aduhkiss) for any questions.
-You can also reach me by email at: atticus.zambrana@thecloudyco.com
+With extensive experience in backend development for the **Bukkit/Spigot** and **BungeeCord** Minecraft Server APIs, I specialize in building scalable, secure, and performant server-side infrastructure. I also bring a strong foundation in **network security**, **access control**, and **threat detection**, helping to safeguard systems against modern cyber threats.
 
-- 🔭 I’m not currently working on anything!
-- 💬 Ask me about Backend Network Development with Spigot and BungeeCord
-- 📫 How to reach me: Discord: Aduhkiss
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I sell memberships for Costco Wholesale!
+---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aduhkiss)](yoo)
+### 💻 What I Do
+- 🧠 **Backend Network Engineering** – Java-based server frameworks, distributed systems, API design  
+- 🛡️ **Cybersecurity Analysis** – Monitoring, auditing, and securing infrastructure from digital threats  
+- ☁️ **Infrastructure Management** – Designing and managing robust cloud-based environments  
+- 🎮 **Minecraft Server Development** – Advanced plugin and network development using Spigot/BungeeCord
 
-<!--
-**Aduhkiss/Aduhkiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📬 Let's Connect
+- **Discord:** `Aduhkiss`  
+- **Email:** zambranaatticus@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Quick Facts
+- 💬 Ask me about: Spigot/BungeeCord backend systems & network security  
+- 😄 Pronouns: He/Him  
+
+---
+
+![Atticus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aduhkiss&show_icons=true&theme=default)
