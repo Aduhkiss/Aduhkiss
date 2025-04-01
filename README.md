@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Atticus Zambrana
 
-I'm a **Java Programmer**, **Infrastructure Engineer**, and **Cybersecurity Analyst** currently working under my own company, **The Cloudy Co**.
+I'm a **Java Programmer**, **Infrastructure Engineer**, and **Cybersecurity Analyst** currently working under my own company, **Starbound Stories LLC**.
 
 With extensive experience in backend development for the **Bukkit/Spigot** and **BungeeCord** Minecraft Server APIs, I specialize in building scalable, secure, and performant server-side infrastructure. I also bring a strong foundation in **network security**, **access control**, and **threat detection**, helping to safeguard systems against modern cyber threats.
 
